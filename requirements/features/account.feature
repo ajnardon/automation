@@ -1,6 +1,6 @@
 @account
 Feature: Account Login
-  As a user of demandware
+  As a user of magento
   I want to have access to login in and log out methods
   So that I can log in and out of my customer account
 
